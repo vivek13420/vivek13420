@@ -67,3 +67,10 @@
         <img src="https://img.shields.io/badge/chakra%20ui-4ed1c5?logo=chakra-ui&logoColor=white&style=for-the-badge"/>
         
 </div>
+
+<div>
+  <h2>Stats in github</h2>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=vivek13420' />
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=vivek13420' />
+  <img src='https://github-readme-stats.vercel.app/api?username=vivek13420&show_icons=true&theme=${useColorModeValue}' />
+</div>
