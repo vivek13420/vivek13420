@@ -19,7 +19,7 @@
 </div>
    
   
-- I'm a Full Stack Web Developer with a specialization in MERN stack, focuses on writing clean and efficient code 👨‍🎓
+- I'm a Full Stack Web Developer from Deharadun,Uttarakhand with a specialization in MERN stack, focuses on writing clean and efficient code 👨‍🎓
 - Currently looking for a new opprtunity 🤖
 
 
